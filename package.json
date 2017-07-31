@@ -1,0 +1,15 @@
+{
+  "name"         : "cbmabot",
+  "version"      : "1.0.0",
+  "description"  : "This is BOT POC",
+  "main"         : "server.js",
+  "repository"	 : "",
+  "license"	 	 : "ISC",
+  "author"       : "Vikram Patil",
+  "dependencies" : {
+    "express"    : "~4.7.2",
+    "morgan"	 : "~1.2.2",
+	"body-parser": "~1.5.2",
+	"botbuilder": "^3.8.4"
+  }
+}
